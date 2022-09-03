@@ -1,6 +1,6 @@
 # proplot-gql-api
 
-This is a graphql wrapper api of the original PropLot [REST API](https://lil-noun-api.fly.dev/ideas)
+This is a graphql wrapper api of the original PropLot [REST api](https://lil-noun-api.fly.dev/ideas)
 
 ## Usage
 
