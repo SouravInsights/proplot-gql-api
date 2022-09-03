@@ -1,0 +1,17 @@
+type Query {
+  ideas: Idea!
+  idea(id: ID!): Idea
+}
+
+type Idea {
+  data: [Data!]!
+}
+
+type Data {
+  id: ID!
+  title: String!
+  tldr: String!
+  description: String
+  creatorId: String!
+  votecount: Int
+}
