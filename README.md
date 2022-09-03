@@ -5,7 +5,7 @@ This is a graphql wrapper api of the original PropLot [REST api](https://lil-nou
 ## Usage
 
 ```sh
-git clone git@github.com:souravinsights/proplot-gql-api.git
+git clone git@github.com:SouravInsights/proplot-gql-api.git
 cd proplot-gql-api
 yarn start
 ```
